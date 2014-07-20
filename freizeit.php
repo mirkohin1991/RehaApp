@@ -132,7 +132,7 @@ $_SESSION ['pageSource'] = "freizeit.php";
 
 		<div class="two_third lastcolumn contact1">
 			<div id="contactForm">
-				<h2>Inhalte der Freizeit Seite</h2>
+				<h2>Inhalte der Freizeit2 Seite</h2>
 				<div class="sepContainer"></div>
       
      
@@ -148,7 +148,7 @@ $_SESSION ['pageSource'] = "freizeit.php";
 	               <form action="save.php?nodeID=' . $i . '" method="post"  id="contact_form">
 		            	
 					<div class="name">
-						<label for="name">Überschrift:</label> <input id=heading
+						<label for="name">ï¿½berschrift:</label> <input id=heading
 							name=heading type=text VALUE="' . getTitle ( $i ) . '"
 							/>
 					</div>
@@ -184,7 +184,7 @@ $_SESSION ['pageSource'] = "freizeit.php";
 
 
 						<div class="name">
-							<label for="name">Überschrift:</label> <input id="heading"
+							<label for="name">ï¿½berschrift:</label> <input id="heading"
 								name="heading" type="text"/>
 						</div>
 
