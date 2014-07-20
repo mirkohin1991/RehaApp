@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContactResponse>
+	<Heading></Heading>
+	<Text></Text>
+	<ContactPerson>
+	    <Name></Name>
+	    <Company></Company>
+	    <Phone></Phone>
+	    <Fax></Fax>
+	    <EMail></EMail>
+	</ContactPerson>
+</ContactResponse>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContactResponse>
+	<Heading>Ein Beruf für Ihre Talente...</Heading>
+	<Text>...vielen Dank für Ihr Interesse am Qualifizierungsangebot des BFW Bad Wildbad.
+Ihre Anfrage wird momentan bearbeitet. Im Laufe der nächsten 24 Stunden wird sich ein Mitarbeiter gemäß Ihrer Anfrage bei Ihnen melden, um Sie individuell und persönlich beraten zu können.
+Bei Fragen können Sie sich auch direkt an die Aufnahme der beruflichen Rehabilitation wenden.</Text>
+	<ContactPerson>
+	    <Name>Christa Meister</Name>
+	    <Company>Aufnahme berufliche Rehabilitation</Company>
+	    <Phone>07081/175-305</Phone>
+	    <Fax>07081/175-303</Fax>
+	    <EMail>c.meister@bfw-badwildbad.de</EMail>
+	</ContactPerson>
+</ContactResponse>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContactResponse>
+	<Heading>Wir bauen Brücken...</Heading>
+	<Text>...vielen Dank für Ihre Anfrage an das Team der Heinrich-Sommer-Klinik.
+Wir werden uns in Kürze bezüglich Ihrer Anfrage persönlich bei Ihnen melden.
+Bei Fragen oder Wünschen können Sie sich auch direkt an die Aufnahme der Heinrich-Sommer-Klinik wenden.</Text>
+	<ContactPerson>
+	    <Name>Michaela Brecht</Name>
+	    <Company>Aufnahme Heinrich-Sommer-Klinik</Company>
+	    <Phone>07081/175-201</Phone>
+	    <Fax>07081/175-215</Fax>
+	    <EMail>m.brecht@bfw-badwildbad.de</EMail>
+	</ContactPerson>
+</ContactResponse>

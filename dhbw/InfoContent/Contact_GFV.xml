@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContactResponse>
+	<Heading>Der Mensch im Mittelpunkt...</Heading>
+	<Text>Vielen Dank für Ihre Anfrage.
+Wir werden uns umgehend mit Ihnen in Verbindung setzen, um Ihr Anliegen persönlich bearbeiten zu können.
+Bei Fragen oder Wünschen können Sie sich auch direkt an den Ansprechpartner der allgemeinen Dienste im Hause wenden</Text>
+	<ContactPerson>
+	    <Name>Beate Schwarz</Name>
+	    <Company>Sekretariat</Company>
+	    <Phone>07081/175-101</Phone>
+	    <Fax>07081/175-115</Fax>
+	    <EMail>b.schwarz@bfw-badwildbad.de</EMail>
+	</ContactPerson>
+</ContactResponse>
