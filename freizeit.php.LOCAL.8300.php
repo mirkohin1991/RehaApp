@@ -132,11 +132,7 @@ $_SESSION ['pageSource'] = "freizeit.php";
 
 		<div class="two_third lastcolumn contact1">
 			<div id="contactForm">
-<<<<<<< HEAD
 				<h2>Inhalte der Freizeit4 Seite</h2>
-=======
-				<h2>Inhalte der Freizeit6 Seite</h2>
->>>>>>> 23db43e6ed07d47a5e83a7b3f6571d95a8888d38
 				<div class="sepContainer"></div>
       
      
